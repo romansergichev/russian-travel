@@ -1,0 +1,9 @@
+@import url(./__image/photo-grid__image.css);
+
+.photo-grid {
+  min-height: 250px;
+  width: 90%;
+  display: grid;  
+  gap: 12px;
+  margin: 0 auto;
+}

@@ -1,0 +1,15 @@
+@import url(./__title/intro__title.css);
+@import url(./__text/intro__text.css);
+@import url(./__list/intro__list.css);
+@import url(./__list-item/intro__list-item.css);
+@import url(./__list-item-number/intro__list-item-number.css);
+
+.intro {
+  width: 288px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0 auto;
+}
+

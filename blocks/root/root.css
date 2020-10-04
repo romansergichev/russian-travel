@@ -1,0 +1,16 @@
+.root {
+  min-width: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #2A2C2F;
+  color: white;
+  font-family: 'Inter',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: all .5s ease-in-out; 
+  -o-transition: all .5s ease-in-out; 
+  -moz-transition: all .5s ease-in-out; 
+  -webkit-transition: all .5s ease-in-out;
+}

@@ -1,0 +1,4 @@
+.places {
+  display: grid;
+  gap: 48px;
+}
