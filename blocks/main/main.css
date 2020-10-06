@@ -1,4 +1,19 @@
 .main {
+  min-width: 320px;
+  max-width: 1184px;
+  margin: 0 auto;
   display: grid;
-  gap: 64px;
+  gap: 63px;
+}
+
+@media screen and (min-width: 768px) {
+  .main {
+    gap: 88px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .main {
+    gap: 92px;
+  }
 }

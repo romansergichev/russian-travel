@@ -3,3 +3,9 @@
   line-height: 1.5;
   margin: 0;
 }
+
+@media screen and (min-width: 720px) {
+  .cover__subtitle {
+    font-size: 18px;
+  }
+}

@@ -4,3 +4,9 @@
   line-height: 1.2;
   margin: 0;
 }
+
+@media screen and (min-width: 720px) {
+  .cover__title {
+    font-size: 72px;
+  }
+}

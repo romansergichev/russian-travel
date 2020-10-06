@@ -2,3 +2,15 @@
   display: grid;
   gap: 48px;
 }
+
+@media screen and (min-width: 768px) {
+  .places {
+    gap: 88px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .places {
+    gap: 92px;
+  }
+}
