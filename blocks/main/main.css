@@ -1,8 +1,8 @@
 .main {
-  min-width: 320px;
   max-width: 1184px;
-  margin: 0 auto;
   display: grid;
+  justify-items: center;
+  align-items: center;
   gap: 63px;
 }
 

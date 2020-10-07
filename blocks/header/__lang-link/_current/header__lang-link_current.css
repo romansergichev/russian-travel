@@ -1,3 +1,5 @@
 .header__lang-link_current {
   border-bottom: 2px solid white; 
 }
+
+/*подчёркивание должно перемещаться или это плейсхолдер для будущего JS?*/

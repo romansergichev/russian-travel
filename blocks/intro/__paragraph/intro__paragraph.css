@@ -7,6 +7,12 @@
 
 @media screen and (min-width: 768px) {
   .intro__paragraph {
+    max-width: 720px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .intro__paragraph {
     max-width: 690px;
   }
 }

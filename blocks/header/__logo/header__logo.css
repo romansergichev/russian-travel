@@ -3,6 +3,11 @@
   height: auto;
   max-width: 142px;
   margin-bottom: 8px;
+  transition: .3s;
+}
+
+.header__logo:hover {
+  opacity: .7;
 }
 
 

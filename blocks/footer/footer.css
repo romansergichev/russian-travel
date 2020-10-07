@@ -11,12 +11,11 @@
   align-items: flex-start;
   font-weight: normal;
   padding-top: 64px;
-  margin: 0 auto;
 }
 
 @media screen and (min-width: 768px) {
   .footer {
-    min-width: 720px;
+    width: 96%;
     flex-direction: row;
     align-items: baseline;
   }
@@ -24,12 +23,13 @@
 
 @media screen and (min-width: 1024px) {
   .footer {
-    min-width: 928px;
+    width: 92%;
   }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1184px) {
   .footer {
+    width: 100%;
     max-width: 1184px;
   }
 }
