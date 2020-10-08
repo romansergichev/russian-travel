@@ -2,7 +2,7 @@
   width: 90%;
   margin: 0 16px 24px;
   font-size: 16px;
-  line-height: 1.625;
+  line-height: 1.7;
   text-align: left;
 }
 
@@ -18,5 +18,11 @@
 
   .place__paragraph:last-child {
     margin: 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__paragraph {
+    font-size: 18px;
   }
 }
