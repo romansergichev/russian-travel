@@ -1,5 +1,6 @@
 .footer__link {
   font-size: 24px;
+  line-height: 1;
   text-decoration: none;
   color: white;
   transition: .3s;
